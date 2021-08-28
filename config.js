@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Empe có đìu nì mún hỏi và anh must answer mụt cách chân thật đó`,
     btnIntro: 'otay empe iu dấu xink đẹp',
     title: 'Anh có iu toi khum HẢ HẢ HẢ  😙',
-    desc: 'Hãy chọn câu trả lời thứ 2 ik hí hí ',
+    desc: 'Ấn câu trả lời màu xanh thử ik hí hí ',
     btnYes: 'Vẫn cứ là iu empe <33',
     btnNo: 'Vẫn cứ là thík empe :3',
     question:'chả hiểu sao anh lại iu em nhìu thía nì nhỉ <3',
