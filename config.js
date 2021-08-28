@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Ank péo à!',
+    introDesc: `Empe có đìu nì mún hỏi và anh must answer mụt cách chân thật đó`,
+    btnIntro: 'otay empe iu dấu xink đẹp',
+    title: 'Anh có iu toi khum HẢ HẢ HẢ  😙',
+    desc: 'Hãy chọn câu trả lời thứ 2 ik hí hí ',
+    btnYes: 'Vẫn cứ là iu empe <33',
+    btnNo: 'Vẫn cứ là thík empe :3',
+    question:'chả hiểu sao anh lại iu em nhìu thía nì nhỉ <3',
+    btnReply: 'Gửi cho emiu <3',
+    reply: 'Tại vì empe sink đẹp, xink xắn, đáng iu nhấc dũ trụ hệ mặt trời <33333333',
+    mess: 'Em biết gùi 🥰. Ghek ank nhiều nhiều 😘😘',
+    messDesc: 'Hết dịch anh mua nhìu nhìu đồ ăn cho empe nhoooo.',
+    btnAccept: 'Okiiiii emiu cụa anh pự <3',
+    messLink: 'http://fb.com' //linkhttps://m.me/dualeo.27.9
 }
