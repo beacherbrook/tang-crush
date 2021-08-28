@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Em biết gùi 🥰. Ghek ank nhiều nhiều 😘😘',
     messDesc: 'Hết dịch anh mua nhìu nhìu đồ ăn cho empe nhoooo.',
     btnAccept: 'Okiiiii emiu cụa anh pự <3',
-    messLink: 'http://fb.com' //linkhttps://m.me/dualeo.27.9
+    messLink: '//linkhttps://m.me/dualeo.27.9'
 }
